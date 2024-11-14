@@ -1,0 +1,28 @@
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\bin\Debug\Database1.mdf
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\bin\Debug\Database1_log.ldf
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\bin\Debug\Расчетная работа1.exe.config
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\bin\Debug\Расчетная работа1.exe
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\bin\Debug\Расчетная работа1.pdb
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\obj\Debug\Расчетная работа1.csproj.AssemblyReference.cache
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\obj\Debug\Расчетная_работа1.Form1.resources
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\obj\Debug\Расчетная_работа1.Properties.Resources.resources
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\obj\Debug\Расчетная работа1.csproj.GenerateResource.cache
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\obj\Debug\Расчетная работа1.csproj.CoreCompileInputs.cache
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\obj\Debug\Расчетная работа1.exe
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\obj\Debug\Расчетная работа1.pdb
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\obj\Debug\Расчетная_работа1.Добавить.resources
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\ООП\Расчетная работа1\obj\Debug\Расчетная_работа1.Изменить.resources
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\bin\Debug\Database1.mdf
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\bin\Debug\Database1_log.ldf
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\bin\Debug\Расчетная работа1.exe.config
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\bin\Debug\Расчетная работа1.exe
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\bin\Debug\Расчетная работа1.pdb
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\obj\Debug\Расчетная работа1.csproj.AssemblyReference.cache
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\obj\Debug\Расчетная_работа1.Form1.resources
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\obj\Debug\Расчетная_работа1.Properties.Resources.resources
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\obj\Debug\Расчетная_работа1.Добавить.resources
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\obj\Debug\Расчетная_работа1.Изменить.resources
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\obj\Debug\Расчетная работа1.csproj.GenerateResource.cache
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\obj\Debug\Расчетная работа1.csproj.CoreCompileInputs.cache
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\obj\Debug\Расчетная работа1.exe
+C:\Users\maksm\OneDrive\Рабочий стол\Учеба\2-ОЙ КУРС\ООП\Расчетная работа1\obj\Debug\Расчетная работа1.pdb
